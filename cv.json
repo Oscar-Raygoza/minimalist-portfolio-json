@@ -1,66 +1,51 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
+    "name": "Oscar Eduardo Miramontes Raygoza",
+    "label": "Front End Senior Developer con más de 7 años de experiencia.",
+    "image": "/72.jpeg",
+    "email": "oscar.eduardo.raygoza@gmail.com",
+    "phone": "+52 4651353138",
     "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "summary": "+6 años de experiencia como Desarrollador Web. <br/> <br/> Actualmente soy Front Developer en The Palace Company. <br/><br/>Soy un desarrollador cuyo enfoque laboral se centra en el desarrollo de tecnologías web para páginas y aplicaciones de escritorio nativas, así como en el desarrollo en general. Gracias a mi formación, me considero una persona capaz de adaptarme a diversas circunstancias y siempre me esfuerzo por brindar lo mejor de mí en los proyectos en los que participo. Asimismo, valoro el trabajo en equipo y promuevo los principios de honestidad, respeto y compañerismo. Por tanto, deseo evolucionar profesionalmente en una empresa que comparta estos valores.",
     "location": {
-      "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "address": "Calle 45 197, Benito Juárez Norte",
+      "postalCode": "97119",
+      "city": "Mérida, Yucatan",
+      "countryCode": "MX",
+      "region": "México"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "oscar-eduardo-raygoza",
+        "url": "https://www.linkedin.com/in/oscar-eduardo-raygoza/"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "Oscar-Raygoza",
+        "url": "https://github.com/Oscar-Raygoza"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "The Palace Company",
+      "position": "Frontend Tech Lead",
+      "url": "https://thepalacecompany.com/",
+      "startDate": "2021-06-01",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "<ul><br/><li>Participé en la implementación del sistema de autenticación de la empresa mediante Cognito, garantizando un acceso seguro para todos los usuarios en los nuevos sistemas.</li><br/><li>Contribuí a la integración de la pasarela de pagos Adyen (Payments) en varios proyectos, facilitando transacciones seguras.</li><br/><li>Lideré el equipo de desarrollo frontend de una aplicación crucial en la empresa, asegurando entregas exitosas y de alta calidad.</li><br/><li>Diseñé e implementé una plantilla de desarrollo frontend para mejorar la eficiencia y coherencia en los proyectos.</li></br><li>Participé de manera activa en diversos proyectos empresariales, demostrando habilidades versátiles y un compromiso constante con el éxito del equipo.</li></br></ul><br><a href ='/#workflow'>Mas información aquí</a></b>",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "name": "Electronic Cats",
+      "position": "Lider de Desarrollo",
+      "url": "https://electroniccats.com/",
+      "startDate": "2019-04-01",
+      "endDate": "2021-05-01",
+      "summary": "<ul><br/><li>Supervisar el equipo de desarrollo interno, encargado de crear diversas aplicaciones de escritorio y páginas web, utilizando tecnologías web, e incluyendo proyectos para terceros como Arduino.</li><br/><li>Creación de aplicaciones web y de escritorio tanto para uso interno como para clientes externos.</li><br/><li>Supervisar el equipo de desarrollo interno, encargado de crear diversas aplicaciones de escritorio y páginas web, utilizando tecnologías web, e incluyendo proyectos para terceros como Arduino.</li><br/><li>Brindar soporte y mantenimiento de sitios web.</li><br/></li><br/><li>Configuración de Analytics y SEO.</li>",
       "highlights": [
         "Started the company"
       ]
@@ -78,13 +63,11 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
+    "institution": "Universidad Tecnológica del Norte de Aguascalientes (UTNA)",
+    "url": "https://www.utna.edu.mx/utna/",
+    "area": "TSU en Tecnologías de la información área Sistemas Informáticos",
+    "startDate": "2017-01-01",
+    "endDate": "2019-01-01",
     "courses": [
       "DB1101 - Basic SQL"
     ]
@@ -194,7 +177,7 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Medio"
     }
   ],
   "interests": [{
@@ -210,66 +193,69 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "web-whatsapp-clone",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "This is a clone page web.whastsapp.com with React js",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "React",
+        "WhatsApp Clone App",
+        "Sass",
+        "+20 estrellas en github ✨"
       ],
-      "url": "https://mars.codes"
+      "url": "https://github.com/Oscar-Raygoza/web-whatsapp-clone",
+      "github": "https://github.com/Oscar-Raygoza/web-whatsapp-clone"
     },
     {
-      "name": "AdventJS",
+      "name": "UsbStick",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Esta es una aplicación de consola que nos permite conectar un dispositivo con lora como el UsbStick por puerto serial y mandar binarios a otro receptor de lora.",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "Puerto Serial",
+        "Web",
+        "JavaScript & TypeScript",
+        "UsbStick",
+        "open-source"
       ],
-      "url": "https://adventjs.dev"
+      "url": "https://github.com/ElectronicCats/usbStick-serialconnection",
+      "github": "https://github.com/ElectronicCats/usbStick-serialconnection"
     },
     {
-      "name": "Codember",
+      "name": "curso-vue-ts",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Este es un curso para enseñar como es Vue 3 desde 0 y implementando buenas practicas con Vuex y Typescript en The Palace Company",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "Learning",
+        "Vue 3",
+        "Vuex",
+        "Vue Router",
+        "Virtual Dom"
       ],
-      "url": "https://codember.dev"
+      "url": "https://github.com/Oscar-Raygoza/curso-vue-ts",
+      "github": "https://github.com/Oscar-Raygoza/curso-vue-ts"
     },
     {
-      "name": "codi.link",
+      "name": "maps-vue-app",
       "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "description": "Aplicación con geolocalización y rutas en Vue 3 y Pinia 🍍",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
+        "Vue 3",
+        "Pinia 🍍",
+        "Vue Router"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "url": "https://oscar-raygoza.github.io/maps-vue-app/#/",
+      "github": "https://github.com/Oscar-Raygoza/maps-vue-app"
     },
     {
-      "name": "Pruebas Técnicas",
+      "name": "Pokedex Vue",
       "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "description": "Proyecto de vue 3, donde consumimos api publica y generamos el proyecto de una pokedex",
       "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
+        "Pokedex",
+        "Comunidad",
+        "Vue"
       ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "url": "https://oscar-raygoza.github.io/pokedex-vue/",
+      "github": "https://github.com/Oscar-Raygoza/pokedex-vue"
     }
   ]
 }
