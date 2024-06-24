@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Oscar Eduardo Miramontes Raygoza",
-    "label": "Front End Senior Developer con más de 6 años de experiencia.",
+    "label": "Senior Front End Developer with over 6 years of experience.",
     "image": "/minimalist-portfolio-json/72.jpeg",
     "email": "oscar.eduardo.raygoza@gmail.com",
-    "phone": "+52 4651353138",
+    "phone": "+52 465-135-31-38",
     "url": "https://www.linkedin.com/in/oscar-eduardo-raygoza/",
-    "summary": "+6 años de experiencia como Desarrollador Web. <br/> <br/> Actualmente soy Front Developer en The Palace Company. <br/><br/>Soy un desarrollador cuyo enfoque laboral se centra en el desarrollo de tecnologías web para páginas y aplicaciones de escritorio nativas, así como en el desarrollo en general. Gracias a mi formación, me considero una persona capaz de adaptarme a diversas circunstancias y siempre me esfuerzo por brindar lo mejor de mí en los proyectos en los que participo. Asimismo, valoro el trabajo en equipo y promuevo los principios de honestidad, respeto y compañerismo. Por tanto, deseo evolucionar profesionalmente en una empresa que comparta estos valores.",
+    "summary": "With over 6 years of experience as a Web Developer. <br/><br/> I am currently a Front Developer at The Palace Company. <br/><br/> I am a developer whose work focuses on web technology development for native desktop pages and applications, as well as general development. Thanks to my training, I consider myself capable of adapting to various circumstances and always strive to give my best in the projects I participate in. Additionally, I value teamwork and promote the principles of honesty, respect, and camaraderie. Therefore, I wish to evolve professionally in a company that shares these values.",
     "location": {
       "address": "Calle 45 197, Benito Juárez Norte",
       "postalCode": "97119",
       "city": "Mérida, Yucatan",
       "countryCode": "MX",
-      "region": "México"
+      "region": "Mexico"
     },
     "profiles": [
       {
@@ -34,7 +34,7 @@
       "url": "https://thepalacecompany.com/",
       "startDate": "2021-06-01",
       "endDate": null,
-      "summary": "<ul><br/><li>Participé en la implementación del sistema de autenticación de la empresa mediante Cognito, garantizando un acceso seguro para todos los usuarios en los nuevos sistemas.</li><br/><li>Contribuí a la integración de la pasarela de pagos Adyen (Payments) en varios proyectos, facilitando transacciones seguras.</li><br/><li>Lideré el equipo de desarrollo frontend de una aplicación crucial en la empresa, asegurando entregas exitosas y de alta calidad.</li><br/><li>Diseñé e implementé una plantilla de desarrollo frontend para mejorar la eficiencia y coherencia en los proyectos.</li></br><li>Participé de manera activa en diversos proyectos empresariales, demostrando habilidades versátiles y un compromiso constante con el éxito del equipo.</li></br></ul><br><a href ='/#workflow'>Mas información aquí</a></b>",
+      "summary": "<ul><li>I participated in the implementation of the company's authentication system using Cognito, ensuring secure access for all users in the new systems.</li><li>I contributed to the integration of the Adyen (Payments) gateway in several projects, facilitating secure transactions.</li><li>I led the frontend development team of a critical company application, ensuring successful and high-quality deliveries.</li><li>I designed and implemented a frontend development template to improve efficiency and consistency across projects.</li><li>I actively participated in various business projects, demonstrating versatile skills and a constant commitment to the team's success.</li></ul><br><a href='/#workflow'>More information here</a>",
       "highlights": [
         "Started the company"
       ]
@@ -45,7 +45,7 @@
       "url": "https://electroniccats.com/",
       "startDate": "2019-04-01",
       "endDate": "2021-05-01",
-      "summary": "<ul><br/><li>Supervisar el equipo de desarrollo interno, encargado de crear diversas aplicaciones de escritorio y páginas web, utilizando tecnologías web, e incluyendo proyectos para terceros como Arduino.</li><br/><li>Creación de aplicaciones web y de escritorio tanto para uso interno como para clientes externos.</li><br/><li>Supervisar el equipo de desarrollo interno, encargado de crear diversas aplicaciones de escritorio y páginas web, utilizando tecnologías web, e incluyendo proyectos para terceros como Arduino.</li><br/><li>Brindar soporte y mantenimiento de sitios web.</li><br/></li><br/><li>Configuración de Analytics y SEO.</li>",
+      "summary": "<ul><li>Supervised the internal development team, responsible for creating various desktop applications and web pages using web technologies, including third-party projects such as Arduino.</li><li>Developed web and desktop applications for both internal use and external clients.</li><li>Provided support and maintenance for websites.</li><li>Configured Analytics and SEO.</li></ul>",
       "highlights": [
         "Started the company"
       ]
@@ -96,7 +96,7 @@
       "name": "HTML",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend"
+        "Web Development", "Frontend"
       ]
     },
     {
@@ -107,63 +107,63 @@
       "name": "CSS",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
+        "Web Development", "Frontend", "Responsive Design"
       ]
     },
     {
       "name": "JavaScript",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        "Web Development", "Frontend", "Backend", "Fullstack"
       ]
     },
     {
       "name": "Tailwind",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        "Web Development", "Frontend", "CSS Framework", "Responsive Design"
       ]
     },
     {
       "name": "TypeScript",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        "Web Development", "Frontend", "Backend", "JavaScript Superset"
       ]
     },
     {
       "name": "Node",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        "Web Development", "Backend", "JavaScript", "Servidor"
       ]
     },
     {
       "name": "MySQL",
       "level": "Avanzado",
       "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        "Database", "SQL", "Backend"
       ]
     },
     {
       "name": "Git",
       "level": "Avanzado",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
+        "Version Control", "Colaboración", "Code"
       ]
     },
     {
       "name": "GitHub",
       "level": "Avanzado",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        "Git"
       ]
     },
     {
       "name": "Next.js",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Web Development", "Frontend", "React Framework", "SSR", "Static Generation"
       ]
     },
     {
@@ -212,9 +212,9 @@
     {
       "name": "UsbStick",
       "isActive": true,
-      "description": "Esta es una aplicación de consola que nos permite conectar un dispositivo con lora como el UsbStick por puerto serial y mandar binarios a otro receptor de lora.",
+      "description": "This is a console application that allows us to connect a LoRa device such as the UsbStick via serial port and send binaries to another LoRa receiver.",
       "highlights": [
-        "Puerto Serial",
+        "Serial Port",
         "Web",
         "JavaScript & TypeScript",
         "UsbStick",
@@ -226,7 +226,7 @@
     {
       "name": "curso-vue-ts",
       "isActive": true,
-      "description": "Este es un curso para enseñar como es Vue 3 desde 0 y implementando buenas practicas con Vuex y Typescript en The Palace Company",
+      "description": "This is a course to teach Vue 3 from scratch, implementing best practices with Vuex and TypeScript at The Palace Company",
       "highlights": [
         "Learning",
         "Vue 3",
@@ -240,11 +240,12 @@
     {
       "name": "maps-vue-app",
       "isActive": true,
-      "description": "Aplicación con geolocalización y rutas en Vue 3 y Pinia 🍍",
+      "description": "Application with geolocation and routes in Vue 3 and Pinia 🍍",
       "highlights": [
         "Vue 3",
         "Pinia 🍍",
-        "Vue Router"
+        "Vue Router",
+        "Composition API"
       ],
       "url": "https://oscar-raygoza.github.io/maps-vue-app/#/",
       "github": "https://github.com/Oscar-Raygoza/maps-vue-app"
@@ -252,10 +253,10 @@
     {
       "name": "Pokedex Vue",
       "isActive": true,
-      "description": "Proyecto de vue 3, donde consumimos api publica y generamos el proyecto de una pokedex",
+      "description": "Project using Vue 3, where we consume a public API and create a Pokédex project.",
       "highlights": [
         "Pokedex",
-        "Comunidad",
+        "Comunity",
         "Vue"
       ],
       "url": "https://oscar-raygoza.github.io/pokedex-vue/",
